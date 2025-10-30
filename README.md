@@ -7,7 +7,7 @@ Una aplicación móvil desarrollada en Flutter para la gestión y seguimiento de
 - **Juan David Saavedra González - 2214111** - *Desarrollo inicial* - [JuanDavidSaavedra](https://github.com/JuanDavidSaavedra)
 
 ## Video Demostrativo
-https://youtu.be/jnjjo8R2RGg
+[https://youtu.be/jnjjo8R2RGg](https://youtu.be/1MBd8oR6MPw)
 
 
 # Para ejecutar la app:
