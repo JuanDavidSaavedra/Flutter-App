@@ -2,6 +2,16 @@
 
 Una aplicación móvil desarrollada en Flutter para la gestión y seguimiento de entregas sostenibles en bicicleta. Diseñada para repartidores y supervisores de GreenGo Logistics, una startup ficticia que coordina repartidores en bicicleta para entregas ecológicas.
 
+# Para ejecutar la app:
+Si modificas el .yaml:
+flutter pub get
+
+Si vas a ejecutar todo el código:
+flutter clean
+flutter pub get
+flutter run
+
+
 ## 🎯 Características
 
 ### 👨‍💼 Modo Repartidor
@@ -36,12 +46,6 @@ Una aplicación móvil desarrollada en Flutter para la gestión y seguimiento de
 - **Provider**: Gestión de estado simple y efectiva
 - **Shared Preferences**: Almacenamiento persistente de datos
 - **Material Design 3**: Sistema de diseño moderno de Google
-
-## 📱 Capturas de Pantalla
-
-| Modo Repartidor | Modo Supervisor | Vista Detallada |
-|-----------------|-----------------|-----------------|
-| <img src="screenshots/repartidor.jpg" width="200"> | <img src="screenshots/supervisor.jpg" width="200"> | <img src="screenshots/detalle.jpg" width="200"> |
 
 ## 🚀 Instalación y Ejecución
 
