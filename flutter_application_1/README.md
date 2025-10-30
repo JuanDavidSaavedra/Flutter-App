@@ -4,18 +4,18 @@ Una aplicación móvil desarrollada en Flutter para la gestión y seguimiento de
 
 # Para ejecutar la app:
 
-Si modificas el .yaml:
+**Si modificas el .yaml**:
 
 flutter pub get
 
 
-Si vas a ejecutar todo el código:
+**Si vas a ejecutar todo el código**:
 
-flutter clean
+- flutter clean
 
-flutter pub get
+- flutter pub get
 
-flutter run
+- flutter run
 
 
 ## 🎯 Características
