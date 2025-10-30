@@ -2,6 +2,10 @@
 
 Una aplicación móvil desarrollada en Flutter para la gestión y seguimiento de entregas sostenibles en bicicleta. Diseñada para repartidores y supervisores de GreenGo Logistics, una startup ficticia que coordina repartidores en bicicleta para entregas ecológicas.
 
+## Realizado Por
+
+- **Juan David Saavedra González - 2214111** - *Desarrollo inicial* - [JuanDavidSaavedra](https://github.com/JuanDavidSaavedra)
+
 # Para ejecutar la app:
 
 **Si modificas el .yaml**:
@@ -65,7 +69,7 @@ flutter pub get
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/green-go-logistics.git
+   git clone https://github.com/JuanDavidSaavedra/Flutter-App.git
    cd green-go-logistics
    ```
 
@@ -200,22 +204,6 @@ flutter build ios --release
 ```bash
 flutter build web --release
 ```
-
-## 🤝 Contribución
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 👥 Autores
-
-- **Juan David Saavedra González - 2214111** - *Desarrollo inicial* - [TuUsuarioGitHub](https://github.com/tuusuario)
 
 ---
 
